@@ -1,0 +1,4 @@
+interface:
+  display_name: "即梦视频批量生成"
+  short_description: "批量生成、下载、校验并断点续跑十五秒即梦视频"
+  default_prompt: "Use $generate-jimeng-video-batch to resume a per-person Jimeng video batch, skip valid outputs, and download each verified 15-second result."
